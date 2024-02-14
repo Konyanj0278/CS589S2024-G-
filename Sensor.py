@@ -2,10 +2,9 @@ import time
 import board
 import adafruit_dht
 
-# Sensor data pin is connected to GPIO 4
+# Sensor data pin is connected to GPIO 18
 sensor = adafruit_dht.DHT22(board.D18)
-# Uncomment for DHT11
-#sensor = adafruit_dht.DHT11(board.D4)
+
 
 while True:
     try:
