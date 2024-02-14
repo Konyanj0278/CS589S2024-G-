@@ -20,9 +20,6 @@ while True:
         print(error.args[0])
         time.sleep(2.0)
         continue
-    except Exception as error:
-        sensor.exit()
-        raise error
 
     time.sleep(2.0)
 
