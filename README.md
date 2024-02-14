@@ -1,1 +1,1 @@
-# CS589S2024-G-
+Code for detecting temp and humidity
