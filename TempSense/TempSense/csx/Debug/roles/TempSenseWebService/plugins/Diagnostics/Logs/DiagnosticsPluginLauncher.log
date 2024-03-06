@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [2/16/2024 4:17:54 AM] Emulator config file set to C:\Users\samza\Dropbox\SZ_Work\SZ_CSUN\comp589\Comp589TempSense\TempSense\TempSense\csx\Debug\roles\TempSenseWebService\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2/16/2024 4:17:54 AM] DiagnosticsStoreRootPath set to: C:\Users\samza\AppData\Local\dftmp\Resources\5e9eb1b8-aeaa-441d-9cb5-cc017c4ed007
+DiagnosticsPluginLauncher.exe Information: 0 : [2/16/2024 4:17:54 AM] Loading config file: C:\Users\samza\Dropbox\SZ_Work\SZ_CSUN\comp589\Comp589TempSense\TempSense\TempSense\csx\Debug\roles\TempSenseWebService\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2/16/2024 4:17:54 AM] Config file to read: C:\Users\samza\Dropbox\SZ_Work\SZ_CSUN\comp589\Comp589TempSense\TempSense\TempSense\csx\Debug\roles\TempSenseWebService\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2/16/2024 4:17:54 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [2/16/2024 4:17:54 AM] Emulator config file set to C:\Users\samza\Dropbox\SZ_Work\SZ_CSUN\comp589\Comp589TempSense\TempSense\TempSense\csx\Debug\roles\TempSenseWebService\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2/16/2024 4:17:54 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [2/16/2024 4:17:54 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [2/16/2024 4:17:54 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [2/16/2024 4:17:54 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [2/16/2024 4:17:54 AM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [2/16/2024 4:17:54 AM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [2/16/2024 4:17:54 AM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [2/16/2024 4:17:55 AM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [2/16/2024 4:17:55 AM] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [2/16/2024 4:19:06 AM] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [2/16/2024 4:19:06 AM] DiagnosticPlugin exited with code 0

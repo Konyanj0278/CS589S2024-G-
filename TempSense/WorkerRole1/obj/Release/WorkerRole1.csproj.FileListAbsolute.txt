@@ -1,0 +1,10 @@
+C:\Users\samza\Dropbox\SZ_Work\SZ_CSUN\comp589\Comp589TempSense\TempSense\WorkerRole1\bin\Release\WorkerRole1.dll.config
+C:\Users\samza\Dropbox\SZ_Work\SZ_CSUN\comp589\Comp589TempSense\TempSense\WorkerRole1\bin\Release\WorkerRole1.dll
+C:\Users\samza\Dropbox\SZ_Work\SZ_CSUN\comp589\Comp589TempSense\TempSense\WorkerRole1\bin\Release\WorkerRole1.pdb
+C:\Users\samza\Dropbox\SZ_Work\SZ_CSUN\comp589\Comp589TempSense\TempSense\WorkerRole1\bin\Release\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\samza\Dropbox\SZ_Work\SZ_CSUN\comp589\Comp589TempSense\TempSense\WorkerRole1\bin\Release\MonAgentListener.dll
+C:\Users\samza\Dropbox\SZ_Work\SZ_CSUN\comp589\Comp589TempSense\TempSense\WorkerRole1\obj\Release\WorkerRole1.csproj.AssemblyReference.cache
+C:\Users\samza\Dropbox\SZ_Work\SZ_CSUN\comp589\Comp589TempSense\TempSense\WorkerRole1\obj\Release\WorkerRole1.csproj.CoreCompileInputs.cache
+C:\Users\samza\Dropbox\SZ_Work\SZ_CSUN\comp589\Comp589TempSense\TempSense\WorkerRole1\obj\Release\WorkerRole1.csproj.CopyComplete
+C:\Users\samza\Dropbox\SZ_Work\SZ_CSUN\comp589\Comp589TempSense\TempSense\WorkerRole1\obj\Release\WorkerRole1.dll
+C:\Users\samza\Dropbox\SZ_Work\SZ_CSUN\comp589\Comp589TempSense\TempSense\WorkerRole1\obj\Release\WorkerRole1.pdb
