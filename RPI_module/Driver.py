@@ -1,7 +1,7 @@
 import time
 import board
 import adafruit_dht
-import Sensors
+import module.Sensors as Sensors
 
 from datetime import datetime, timezone
 
